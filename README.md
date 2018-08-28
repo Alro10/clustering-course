@@ -44,6 +44,9 @@ $ pip3 install -U scikit-learn
 
 * [Spectral Clustering](http://scikit-learn.org/stable/auto_examples/cluster/plot_segmentation_toy.html#sphx-glr-auto-examples-cluster-plot-segmentation-toy-py)
 
+* [The EM algorithm](http://scikit-learn.org/stable/modules/mixture.html)
+
+
 
 
 
