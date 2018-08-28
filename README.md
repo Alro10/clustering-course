@@ -26,6 +26,8 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 
 ## Coding/Projects
 
+### Clustering
+
 **scikit learn** package has many clustering algorithms implementation, you can see [here](http://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering). How to install on Ubuntu 16.04 (needs numpy and scipy):
 
 * Python 2.7
@@ -46,7 +48,12 @@ $ pip3 install -U scikit-learn
 
 * [The EM algorithm](http://scikit-learn.org/stable/modules/mixture.html)
 
-* [Fuzzy c-means](https://github.com/bm424/scikit-cmeans)
+* [Fuzzy c-means](https://github.com/bm424/scikit-cmeans). Other good example [here](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html)
+
+* [Self-organizing maps](https://github.com/JustGlowing/minisom)- MiniSom is a minimalistic and Numpy based implementation of the Self Organizing Maps (SOM)
+
+### Subspace Clustering
+
 
 
 
