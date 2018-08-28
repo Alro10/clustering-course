@@ -46,6 +46,10 @@ $ pip3 install -U scikit-learn
 
 * [The EM algorithm](http://scikit-learn.org/stable/modules/mixture.html)
 
+* [Fuzzy c-means](https://github.com/bm424/scikit-cmeans)
+
+
+
 
 
 
