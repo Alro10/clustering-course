@@ -26,7 +26,7 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 
 ## Coding/Projects
 
-Scikit learn package has many clustering algorithms implementation, you can see [here](http://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering). How to install on Ubuntu 16.04 (needs numpy and scipy):
+**scikit learn** package has many clustering algorithms implementation, you can see [here](http://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering). How to install on Ubuntu 16.04 (needs numpy and scipy):
 
 * Python 2.7
 
@@ -35,5 +35,15 @@ $ pip install -U scikit-learn
 * Python 3.5
 
 $ pip3 install -U scikit-learn
+
+* [Agglomerative Clustering](http://scikit-learn.org/stable/auto_examples/cluster/plot_digits_linkage.html#sphx-glr-auto-examples-cluster-plot-digits-linkage-py)
+
+* [k-means](http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py)
+
+* [DBSCAN](http://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
+
+* [Spectral Clustering](http://scikit-learn.org/stable/auto_examples/cluster/plot_segmentation_toy.html#sphx-glr-auto-examples-cluster-plot-segmentation-toy-py)
+
+
 
 
