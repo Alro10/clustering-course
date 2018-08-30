@@ -33,8 +33,9 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 
 * [A Geometric Analysis of Subspace Clustering with Outliers](https://projecteuclid.org/download/pdfview_1/euclid.aos/1358951380) - Another paper that has **good figures** for understanding subspace clustering.
 
+<p align="center">
 <img src="https://github.com/Alro10/clustering-course/blob/master/topic3.png" alt="alt text" width="60%" height="60%">
-
+</p>
 
 <a name="github-projects" />
 
