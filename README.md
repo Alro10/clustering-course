@@ -37,6 +37,17 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 <img src="https://github.com/Alro10/clustering-course/blob/master/topic3.png" alt="alt text" width="50%" height="40%">
 </p>
 
+#### Classification based on lecture:
+
+<p align="center">
+<img src="https://github.com/Alro10/clustering-course/blob/master/general.png" alt="alt text" width="80%" height="80%">
+</p>
+
+<p align="center">
+<img src="https://github.com/Alro10/clustering-course/blob/master/subspace.png" alt="alt text" width="80%" height="80%">
+</p>
+
+
 <a name="github-projects" />
 
 ## Coding/Projects
