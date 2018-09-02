@@ -27,7 +27,7 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 
 ### Topic 3
 
-* [Subpace Clustering for High Dimensional Data: A Review](http://www.kdd.org/exploration_files/parsons.pdf) - L. Parsons, E. Haque, and H. Liu.
+* [Subpace Clustering for High Dimensional Data: A Review](http://www.kdd.org/exploration_files/parsons.pdf) - L. Parsons, E. Haque, and H. Liu. **reference 25 of class material**
 
 * [ClustNails: Visual Analysis of Subspace Clusters](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/TaZhBe12.pdf) - The paper has **good figures** for understanding subspace clustering.
 
