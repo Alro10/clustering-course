@@ -87,6 +87,9 @@ $ pip3 install -U scikit-learn
 
 ### Subspace Clustering
 
+* [ProClus: The ProClus Algorithm for Projected Clustering](https://rdrr.io/cran/subspace/man/ProClus.html)- R package
+
+* [Subpace clustering](https://rdrr.io/cran/subspace/man/)- R package
 
 
 
