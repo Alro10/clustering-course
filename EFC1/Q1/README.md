@@ -1,5 +1,5 @@
 # EFC1 (First list of clustering problems)
-This folder containts the python implementation for list of problems.
+This folder containts the python implementation for the first list of problems.
 
  
 
@@ -15,7 +15,7 @@ This folder containts the python implementation for list of problems.
 
 <a name="Q1" />
 
-### QUESTION 1
+### Question 1
 
 * DBSCAN
 
