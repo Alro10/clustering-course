@@ -23,6 +23,16 @@ This folder containts the python implementation for the first list of problems.
 
 * Growing Neural Gas (GNG)
 
+For GNG I recommend to create a virtualenv python 2.7
+
+$ cd GNG/
+
+$ virtualenv gas
+
+$ source gas/bin/activate 
+
+$ pip install -r requirements.txt
+
 
 
 
