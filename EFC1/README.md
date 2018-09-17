@@ -19,9 +19,21 @@ This folder containts the python implementation for the first list of problems.
 
 * DBSCAN
 
+<p align="center">
+<img src="https://github.com/Alro10/clustering-course/blob/master/EFC1/Q1/dbscan.png" alt="alt text" width="50%" height="50%">
+</p>
+
 * Spectral clustering
 
+<p align="center">
+<img src="https://github.com/Alro10/clustering-course/blob/master/EFC1/Q1/spectral.png" alt="alt text" width="50%" height="50%">
+</p>
+
 * Growing Neural Gas (GNG)
+
+<p align="center">
+<img src="https://github.com/Alro10/clustering-course/blob/master/EFC1/Q1/GNG/gas.png" alt="alt text" width="80%" height="80%">
+</p>
 
 For GNG I recommend to create a virtualenv python 2.7
 
