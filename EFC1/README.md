@@ -45,6 +45,8 @@ $ source gas/bin/activate
 
 $ pip install -r requirements.txt
 
+$ python q1.py
+
 
 
 
