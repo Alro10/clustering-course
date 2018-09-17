@@ -1,4 +1,4 @@
-# EFC1 (First list of clustering problems)
+# EFC1 
 This folder containts the python implementation for the first list of problems.
 
  
