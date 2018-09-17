@@ -19,11 +19,16 @@ This folder containts the python implementation for the first list of problems.
 
 * DBSCAN
 
+$ python3  dbscan.py
+
 <p align="center">
 <img src="https://github.com/Alro10/clustering-course/blob/master/EFC1/Q1/dbscan.png" alt="alt text" width="80%" height="80%">
 </p>
 
 * Spectral clustering
+
+$ python3  spectral.py
+
 
 <p align="center">
 <img src="https://github.com/Alro10/clustering-course/blob/master/EFC1/Q1/spectral.png" alt="alt text" width="80%" height="80%">
