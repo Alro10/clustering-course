@@ -19,13 +19,13 @@ Clustering or cluster analysis takes a mass of observations and separates them, 
 
 ## Tutorials
 
-### Topic 1
+### Topic 2
 * [Linear Algebra by Prof. Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D) - Amazing classes of linear algebra
 
-### Topic 2
+### Topic 3
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - Introduction to well-known clustering algorithms for Data Scientists
 
-### Topic 3
+### Topic 4
 
 * [Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering
 ](https://dl.acm.org/citation.cfm?id=1497578) - Hans-Peter Kriegel, et. **reference 18 of class material**
